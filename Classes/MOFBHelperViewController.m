@@ -24,7 +24,7 @@
 #pragma mark Facebook Session Protocol Methods
 
 - (void)session:(FBSession*)session didLogin:(FBUID)uid {
-	fbHelper.status = @"is learning to set FaceBook status programatically from an iPhone";
+	fbHelper.status = @"is learning to set Facebook status programatically from an iPhone";
 }
 
 #pragma mark Optional MOFBHelper Protocol Methods
@@ -41,6 +41,7 @@
 
 - (void)dealloc {
 	[session release];
+	[fbHelper release];
     [super dealloc];
 }
 
