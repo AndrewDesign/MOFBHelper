@@ -1,7 +1,7 @@
 Tutorial
 --------
 
-See [Marketing In Code, Part 2: Setting A User's Status In Facebook From An iPhone App -- A Tutorial](marketing-in-code-part-2-setting-a-users-status-in-facebook-from-an-iphone-app-a-tutorial) for instructions and a tutorial.
+See [Marketing In Code, Part 2: Setting A User's Status In Facebook From An iPhone App -- A Tutorial](http://www.mobileorchard.com/marketing-in-code-part-2-setting-a-users-status-in-facebook-from-an-iphone-app-a-tutorial) for instructions and a tutorial.
 
 
 BSD License
